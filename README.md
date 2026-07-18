@@ -1,4 +1,4 @@
-# 📚 Smart Library Seat Availability Indicator System
+# Smart Library Seat Availability Indicator System
 
 This project was developed to solve a common problem faced by students in university libraries—finding an available seat during busy hours. Instead of walking around the library searching for an empty seat, the system shows the number of available seats in real time.
 
